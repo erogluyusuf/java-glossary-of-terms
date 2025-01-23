@@ -6,7 +6,6 @@ following definitions.
 
 ------------------------------------------------------------------------
 
-
 ***A***
 
 *Abstract Window Toolkit (AWT)*
@@ -107,7 +106,7 @@ to the corresponding bit of the other value.
 *block*
 
 In the Java(TM) programming language, any code between matching braces.
-Example: `{ x = 1; }`.
+Example: ``.
 
 *boolean*
 
@@ -190,7 +189,7 @@ particular instances of the class. Class variables are defined in class
 definitions. Also called a *static field*. See also
 *instance variable*.
 
-*[client]{#client}*
+*[client]*
 
 In the client/server model of communcations, the client is a process
 that remotely accesses resources of a compute server, such as compute
@@ -578,106 +577,106 @@ images, sounds and other resource files) can be bundled in a JAR file
 and subsequently downloaded to a browser in a single HTTP transaction.
 It also supports file compression and digital signatures.
 
-*[Java(TM)]{#Java}*
+*[Java(TM)]*
 
 Sun\'s trademark for a set of technologies for creating and safely
 running software programs in both stand-alone and networked
 environments.
 
-*[Java Application Environment (JAE)]{#JAE}*
+*[Java Application Environment (JAE)]*
 
 The source code release of the Java Development Kit (JDK(TM)) software.
 
-*[JavaBeans(TM)]{#JavaBeans}*
+*[JavaBeans(TM)]*
 
 A portable, platform-independent reusable component model.
 
-*[Java Blend(TM)]{#Java Blend}*
+*[Java Blend(TM)]*
 
 A product that enables developers to simplify database application
 development by mapping database records to objects in the Java(TM)
 programming language (Java objects) and Java objects to databases.
 
-*[Java Card(TM) API]{#Java Card}*
+*[Java Card(TM) API]*
 
 An ISO 7816-4 compliant application environment focused on smart cards.
 
-*[JavaCheck(TM)]{#JavaCheck}*
+*[JavaCheck(TM)]*
 
 A tool for checking compliance of applications and applets to a
 specification.
 
-*[JavaChip(TM)]{#JavaChip}*
+*[JavaChip(TM)]*
 
 Sun\'s processor, which executes bytecode for the Java(TM) virtual
 machine**\*** natively. With a JavaChip processor, bytecode bypasses the
 virtual machine or just-in-time compiler stage to go directly to the
 processor.
 
-*[Java(TM) Compatibility Kit (JCK)]{#JCK}*
+*[Java(TM) Compatibility Kit (JCK)]*
 
 A test suite, a set of tools, and other requirements used to certify a
 Java platform implementation conformant both to the applicable Java
 platform specifications and to Java Software reference implementations.
 
-*[Java Database Connectivity (JDBC(TM))]{#Java Database Connectivity}*
+*[Java Database Connectivity (JDBC(TM))]*
 
 An industry standard for database-independent connectivity between the
 Java(TM) platform and a wide range of databases. The JDBC(TM) provides a
 call-level API for SQL-based database access.
 
-*[Java Developer Connection(SM)]{#JDC}*
+*[Java Developer Connection(SM)]*
 
 A service designed for individual developers, providing online training,
 product discounts, feature articles, bug information, and early access
 capabilities.
 
-*[Java Development Kit (JDK(TM))]{#Java Development Kit}*
+*[Java Development Kit (JDK(TM))]*
 
 A software development environment for writing applets and applications
 in the Java programming language.
 
-*[Java(TM) Electronic Commerce Framework]{#JECF}*
+*[Java(TM) Electronic Commerce Framework]*
 
 A structured architecture for the development of electronic commerce
 applications in the Java(TM) programming language.
 
-*[Java(TM) Enterprise API]{#Java Enterprise API}*
+*[Java(TM) Enterprise API]*
 
 This API makes it easy to create large-scale commercial and database
 applications that can share multimedia data with other applications
 within an organization or across the Internet. Four APIs have been
 designed within the Java(TM) Enterprise API family.
 
-*[Java(TM) Foundation Classes (JFC)]{#swing}*
+*[Java(TM) Foundation Classes (JFC)]*
 
 An extension that adds graphical user interface class libraries to the
 Abstract Windowing Toolkit (AWT).
 
-*[Java(TM) Interface Definition Language (IDL)]{#Java IDL}*
+*[Java(TM) Interface Definition Language (IDL)]*
 
 APIs written in the Java programming language that provide
 standards-based interoperability and connectivity with CORBA (Common
 Object Request Broker Architecture).
 
-*[Java(TM) Media APIs]{#Java Media APIs}*
+*[Java(TM) Media APIs]*
 
 A set of APIs that support the integration of audio and video clips, 2D
 fonts, graphics, and images as well as 3D models and telephony.
 
-*[Java(TM) Media Framework]{#Java Media Framework}*
+*[Java(TM) Media Framework]*
 
 The core framework supports clocks for synchronizing between different
 media (e.g., audio and video output). The standard extension framework
 allows users to do full audio and video streaming.
 
 *[Java Naming and Directory Interface(TM)
-(JNDI)]{#Java Naming and Directory Interface}*
+(JNDI)]*
 
 A set of APIs that assists with the interfacing to multiple naming and
 directory services.
 
-*[JavaOS(TM)]{#JavaOS}*
+*[JavaOS(TM)]*
 
 An Java(TM) technology-based operating system that is optimized to run
 on a variety of computing and consumer platforms. The JavaOS(TM)
@@ -685,12 +684,12 @@ operating environment provides a runtime specifically tuned to run
 applications written in the Java programming language directly on
 hardware platforms without requiring a host operating system.
 
-*[JavaPlan(TM)]{#JavaPlan}*
+*[JavaPlan(TM)]*
 
 An object-oriented design and diagramming tool written in the Java(TM)
 programming language.
 
-*[Java(TM) Platform]{#Java Platform}*
+*[Java(TM) Platform]*
 
 Consists of a language for writing programs (\"the Java(TM) programming
 language\"); a set of APIs, class libraries, and other programs used in
@@ -704,7 +703,7 @@ Sun\'s targeted compatibility brands.\
 \
 The Java(TM) 2 platform is the current generation of the Java platform.
 
-*[Java(TM) Platform Editions]{#Java Platform Editions}*
+*[Java(TM) Platform Editions]*
 
 A Java platform \"edition\" is a definitive and agreed-upon version of
 the Java platform that provides the functionality needed over a broad
@@ -733,43 +732,43 @@ deployment, and management of applications that can scale from smart
 cards through mobile devices and set-top boxes to conventional computing
 devices.
 
-*[Java(TM) Remote Method Invocation (RMI)]{#JRMI}*
+*[Java(TM) Remote Method Invocation (RMI)]*
 
 A distributed object model for Java(TM) program to Java program, in
 which the methods of remote objects written in the Java programming
 language can be invoked from other Java virtual machines**\***, possibly
 on different hosts.
 
-*[Java(TM) Runtime Environment (JRE)]{#Java Runtime Environment}*
+*[Java(TM) Runtime Environment (JRE)]*
 
 A subset of the Java Development Kit (JDK(TM)) for end-users and
 developers who want to redistribute the runtime environment alone. The
 Java runtime environment consists of the Java virtual machine**\***, the
 Java core classes, and supporting files.
 
-*[JavaSafe(TM)]{#JavaSafe}*
+*[JavaSafe(TM)]*
 
 A tool for tracking and managing source file changes, written in the
 Java(TM) programming language.
 
-*[JavaScript(TM)]{#JavaScript}*
+*[JavaScript(TM)]*
 
 A Web scripting language that is used in both browsers and Web servers.
 Like all scripting languages, it is used primarily to tie other
 components together or to accept user input.
 
-*[Java Studio(TM)]{#Java Studio}*
+*[Java Studio(TM)]*
 
 The first program that allows you to easily create Java(TM)
 technology-based applications and applets without having to know the
 Java programming language.
 
-*[Java(TM) Technologies]{#Java Technologies}*
+*[Java(TM) Technologies]*
 
 A set of technologies that enable the creation and safe running of
 software programs in both stand-alone and networked environments.
 
-*[Java(TM) virtual machine (JVM)\*]{#Java virtual machine}*
+*[Java(TM) virtual machine (JVM)\*]*
 
 Sun\'s specification for or implementation of a software \"execution
 engine\" that safely and compatibly executes the byte codes in Java
@@ -794,7 +793,7 @@ targeted at smart cards and other severely memory-constrained devices
 and can run in devices with memory as small as 24K of ROM, 16K of
 EEPROM, and 512 bytes of RAM.
 
-*[Java Web Server(TM)]{#Java Web Server}*
+*[Java Web Server(TM)]*
 
 The easy-to-use, extensible, easy-to-administer, secure,
 platform-independent solution to speed and simplify the deployment and
@@ -802,47 +801,47 @@ management of your Internet and Intranet Web sites. It provides
 immediate productivity for robust, full-featured, Java technology-based
 server applications.
 
-*[Java Workshop(TM)]{#Java Workshop}*
+*[Java Workshop(TM)]*
 
 A complete set of tools integrated into a single environment for
 managing programming with Java technology. The Java Workshop software
 uses a highly modular structure that enables you to easily plug new
 tools into the overall structure.
 
-*[Java(TM) wallet]{#Java wallet}*
+*[Java(TM) wallet]*
 
 A user interface, built on the Java(TM) Electronic Commerce Framework,
 which allows for online purchases, value transfers, and administrative
 functions.
 
-*[JavaSpaces(TM)]{#JavaSpaces}*
+*[JavaSpaces(TM)]*
 
 A technology that provides distributed persistence and data exchange
 mechanisms for code in the Java(TM) programming language.
 
-*[JavaSoft(TM)]{#JavaSoft}*
+*[JavaSoft(TM)]*
 
 A former business unit of Sun Microsystems, Inc., currently known as Sun
 Microsystems, Inc., Java Software division.
 
-*[JDBC(TM)]{#JDBC}*
+*[JDBC(TM)]*
 
 Java(TM) Database Connectivity. An industry standard for
 database-independent connectivity between the Java platform and a wide
 range of databases. The JDBC interface provides a call-level API for
 SQL-based database access.
 
-*[JDK(TM)]{#JDK}*
+*[JDK(TM)]*
 
 Java(TM) Development Kit software. A software development environment
 for writing applets and application in the Java programming language.
 
-*[JFC]{#JFC}*
+*[JFC]*
 
 Java(TM) Foundation Class. An extension that adds graphical user
 interface class libraries to the Abstract Windowing Toolkit (AWT).
 
-*[Jini(TM) Technology]{#Jini}*
+*[Jini(TM) Technology]*
 
 Sun\'s Jini technology includes a set of APIs that may be incorporated
 an optional package for any Java 2 platform edition. This set of APIs
@@ -852,155 +851,155 @@ the need for system or network administration intervention by a user.\
 The Jini technology is currently an optional package available on all
 Java 2 platform editions.
 
-*[JMAPI]{#JMAPI}*
+*[JMAPI]*
 
 Java(TM) Management API. A collection of Java programming language
 classes and interfaces that allow developers to build system, network,
 and service management applications.
 
-*[JNDI]{#JNDI}*
+*[JNDI]*
 
 Java Naming and Directory Interface(TM). A set of APIs that assist with
 the interfacing to multiple naming and directory services.
 
-*[JPEG]{#JPEG}*
+*[JPEG]*
 
 Joint Photographic Experts Group. An image file compression standard
 established by this group. It achieves tremendous compression at the
 cost of introducing distortions into the image which are almost always
 imperceptible.
 
-*[JRE]{#JRE}*
+*[JRE]*
 
 Java(TM) runtime environment. A subset of the Java Developer Kit for
 end-users and developers who want to redistribute the runtime
 environment. The Java runtime environment consists of the Java virtual
 machine**\***, the Java core classes, and supporting files.
 
-*[Just-in-time (JIT) Compiler]{#JIT}*
+*[Just-in-time (JIT) Compiler]*
 
 A compiler that converts all of the bytecode into native machine code
 just as a Java(TM) program is run. This results in run-time speed
 improvements over code that is interpreted by a Java virtual
 machine**\***.
 
-*[JVM]{#JVM}*
+*[JVM]*
 
 Java(TM) Virtual Machine**\***. The part of the Java Runtime Environment
 responsible for interpreting bytecodes.
 
-[***K***]{#K}[![Top](../images/glossaryArrow.gif){border="0"
+[***K***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[keyword]{#keyword}*
+*[keyword]*
 
 The Java(TM) programming language sets aside words as keywords - these
 words are reserved by the language itself and therefore are not
 available as names for variables or methods.
 
-[***L***]{#L}[![Top](../images/glossaryArrow.gif){border="0"
+[***L***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[lexical]{#lexical}*
+*[lexical]*
 
 Pertaining to how the characters in source code are translated into
 tokens that the compiler can understand.
 
-*[linker]{#linker}*
+*[linker]*
 
 A module that builds an executable, complete program from component
 machine code modules. The Java(TM) linker creates a runnable program
 from compiled classes. See also *[compiler](#compiler)*,
 *[interpreter](#interpreter)*, *[runtime system](#runtime%20system)*.
 
-*[literal]{#literal}*
+*[literal]*
 
 The basic representation of any integer, floating point, or character
 value. For example, 3.0 is a double-precision floating point literal,
 and \"a\" is a character literal.
 
-*[local variable]{#local variable}*
+*[local variable]*
 
 A data item known within a block, but inaccessible to code outside the
 block. For example, any variable defined within a method is a local
 variable and can\'t be used outside the method.
 
-*[long]{#long}*
+*[long]*
 
 A Java(TM) programming language keyword used to define a variable of
 type long.
 
-[***M***]{#M}[![Top](../images/glossaryArrow.gif){border="0"
+[***M***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[member]{#member}*
+*[member]*
 
 A *[field](#field)* or *[method](#method)* of a class. Unless specified
 otherwise, a member is not static.
 
-*[method]{#method}*
+*[method]*
 
 A function defined in a class. See also *[instance
 method](#instance%20method)*, *[class method](#class%20method)*. Unless
 specified otherwise, a method is not static.
 
-*[Mosaic]{#Mosaic}*
+*[Mosaic]*
 
 A program that provides a simple GUI that enables easy access to the
 data stored on the Internet. These data may be simple files or hypertext
 documents. Mosaic was written by a team at *[NCSA](#NCSA)*.
 
-*[multithreaded]{#multithreaded}*
+*[multithreaded]*
 
 Describes a program that is designed to have parts of its code execute
 concurrently. See also *[thread](#thread)*.
 
-[***N***]{#N}[![Top](../images/glossaryArrow.gif){border="0"
+[***N***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[native]{#native}*
+*[native]*
 
 A Java(TM) programming language keyword that is used in method
 declarations to specify that the method is not implemented in the same
 Java source file, but rather in another language.
 
-*[NCSA]{#NCSA}*
+*[NCSA]*
 
 National Center for Supercomputer Applications. See also
 *[Mosaic](#Mosaic)*.
 
-*[new]{#new}*
+*[new]*
 
 A Java(TM) programming language keyword used to create an instance of a
 class.
 
-*[null]{#null}*
+*[null]*
 
 A Java(TM) programming language keyword used to specify an undefined
 value for reference variables.
 
-[***O***]{#O}[![Top](../images/glossaryArrow.gif){border="0"
+[***O***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[object]{#object}*
+*[object]*
 
 The principal building blocks of object-oriented programs. Each object
 is a programming unit consisting of data (*[instance
 variables](#instance%20variable)*) and functionality (*[instance
 methods](#instance%20method)*). See also *[class](#class)*.
 
-*[object-oriented design]{#object-oriented design}*
+*[object-oriented design]*
 
 A software design method that models the characteristics of abstract or
 real objects using classes and objects.
 
-*[octal]{#octal}*
+*[octal]*
 
 The numbering system using 8 as its base, using the numerals 0-7 as its
 digits. In programs written in the Java(TM) programming language, octal
 numbers must be preceded with 0. See also *[hexadecimal](#hexadecimal)*.
 
-*[Optional Packages]{#Optional Packages}*
+*[Optional Packages]*
 
 The set or sets of APIs in a Java platform edition which are available
 with and may be supported in a compatible implementation.\
@@ -1008,61 +1007,61 @@ with and may be supported in a compatible implementation.\
 Over time, optional packages may become required in an edition as the
 marketplace requires them.
 
-*[overloading]{#overloading}*
+*[overloading]*
 
 Using one identifier to refer to multiple items in the same scope. In
 the Java(TM) programming language, you can overload methods but not
 variables or operators.
 
-*[overriding]{#overriding}*
+*[overriding]*
 
 Providing a different implementation of a method in a subclass of the
 class that originally defined the method.
 
-[***P***]{#P}[![Top](../images/glossaryArrow.gif){border="0"
+[***P***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[package]{#package}*
+*[package]*
 
 A group of *[types](#types)*. Packages are declared with the `package`
 keyword.
 
-*[peer]{#peer}*
+*[peer]*
 
 In networking, any functional unit in the same layer as another entity.
 
-*[PersonalJava(TM)]{#PeronsalJava}*
+*[PersonalJava(TM)]*
 
 A Java runtime environment for network-connectable applications on
 personal consumer devices for home, office, and mobile use.
 
-*[pixel]{#pixel}*
+*[pixel]*
 
 The smallest addressable picture element on a display screen or printed
 page.
 
-*[POSIX]{#POSIX}*
+*[POSIX]*
 
 Portable Operating System for UNIX(TM). A standard that defines the
 language interface between the UNIX operating system and application
 programs through a minimal set of supported functions.
 
-*[private]{#private}*
+*[private]*
 
 A Java(TM) programming language keyword used in a method or variable
 declaration. It signifies that the method or variable can only be
 accessed by other elements of its class.
 
-*[process]{#process}*
+*[process]*
 
 A virtual address space containing one or more threads.
 
-*[property]{#property}*
+*[property]*
 
 Characteristics of an object that users can set, such as the color of a
 window.
 
-*[Profiles]{#Profiles}*
+*[Profiles]*
 
 A Profile is a collection of Java APIs that complements one or more Java
 2 Platform Editions by adding domain-specific capabilities. Profiles may
@@ -1082,59 +1081,59 @@ web-compatible Java-based content\
 \* Java Card(TM) - for secure smart cards and other severely
 memory-constrained devices.
 
-*[protected]{#protected}*
+*[protected]*
 
 A Java(TM) programming language keyword used in a method or variable
 declaration. It signifies that the method or variable can only be
 accessed by elements residing in its class, subclasses, or classes in
 the same package.
 
-*[public]{#public}*
+*[public]*
 
 A Java(TM) programming language keyword used in a method or variable
 declaration. It signifies that the method or variable can be accessed by
 elements residing in other classes.
 
-[***Q***]{#Q}[![Top](../images/glossaryArrow.gif){border="0"
+[***Q***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-[***R***]{#R}[![Top](../images/glossaryArrow.gif){border="0"
+[***R***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[raster]{#raster}*
+*[raster]*
 
 A line of pixels.
 
-*[reference]{#reference}*
+*[reference]*
 
 A data element whose value is an address.
 
-*[return]{#return}*
+*[return]*
 
 A Java(TM) programming language keyword used to finish the execution of
 a method. It can be followed by a value required by the method
 definition.
 
-*[RFE]{#RFE}*
+*[RFE]*
 
 Request for Enhancement.
 
-*[RMI]{#RMI}*
+*[RMI]*
 
 See *[Java Remote Method Invocation](#JRMI)*.
 
-*[root]{#root}*
+*[root]*
 
 In a hierarchy of items, the one item from which all other items are
 descended. The root item has nothing above it in the hierarchy. See also
 *[hierarchy](#hierarchy)*, *[class](#class)*, *[package](#package)*.
 
-*[RPC]{#RPC}*
+*[RPC]*
 
 Remote Procedure Call. Executing what looks like a normal procedure call
 (or method invocation) by sending network packets to some remote host.
 
-*[runtime system]{#runtime system}*
+*[runtime system]*
 
 The software environment in which programs compiled for the Java(TM)
 virtual machine**\*** can run. The runtime system includes all the code
@@ -1143,10 +1142,10 @@ dynamically link native methods, manage memory, handle exceptions, and
 an implementation of the Java virtual machine, which may be a Java
 interpreter.
 
-[***S***]{#S}[![Top](../images/glossaryArrow.gif){border="0"
+[***S***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[Sandbox]{#Sandbox}*
+*[Sandbox]*
 
 Comprises a number of cooperating system components, ranging from
 security managers that execute as part of the application, to security
@@ -1154,7 +1153,7 @@ measures designed into the Java(TM) virtual machine**\*** and the
 language itself. The sandbox ensures that an untrusted, and possibly
 malicious, application cannot gain access to system resources.
 
-*[scope]{#scope}*
+*[scope]*
 
 A characteristic of an identifier that determines where the identifier
 can be used. Most identifiers in the Java(TM) programming environment
@@ -1165,34 +1164,34 @@ class variables and methods) with the class name. All other variables
 are declared within methods and have local scope; they can be used only
 within the enclosing block.
 
-*[Secure Socket Layer (SSL)]{#SSL}*
+*[Secure Socket Layer (SSL)]*
 
 A protocol that allows communication between a Web browser and a server
 to be encrypted for privacy.
 
-*[servlet]{#servlet}*
+*[servlet]*
 
 A server-side program that gives Java(TM) technology-enabled servers
 additional functionality.
 
-*[short]{#short}*
+*[short]*
 
 A Java(TM) programming language keyword used to define a variable of
 type short.
 
-*[single precision]{#single precision}*
+*[single precision]*
 
 In the Java(TM) language specification, describes a floating point
 number with 32 bits of data. See also *[double
 precision](#double%20precision)*.
 
-*[SGML]{#SGML}*
+*[SGML]*
 
 Standardized Generalized Markup Language. An ISO/ANSI/ECMA standard that
 specifies a way to annotate text documents with information about types
 of sections of a document.
 
-*[static]{#static}*
+*[static]*
 
 A Java(TM) programming language keyword used to define a variable as a
 class variable. Classes maintain one copy of class variables regardless
@@ -1201,53 +1200,53 @@ to define a method as a class method. Class methods are invoked by the
 class instead of a specific instance, and can only operate on class
 variables.
 
-*[static field]{#static field}*
+*[static field]*
 
 Another name for *[class variable](#class%20variable)*.
 
-*[static method]{#static method}*
+*[static method]*
 
 Another name for *[class method](#class%20method)*.
 
-*[subarray]{#subarray}*
+*[subarray]*
 
 An array that is inside another array.
 
-*[subclass]{#subclass}*
+*[subclass]*
 
 A class that is derived from a particular class, perhaps with one or
 more classes in between. See also *[superclass](#superclass)*,
 *[supertype](#supertype)*.
 
-*[subtype]{#subtype}*
+*[subtype]*
 
 If type X *extends* or implements type Y, then X is a subtype of Y. See
 also *[supertype](#supertype)*.
 
-*[superclass]{#superclass}*
+*[superclass]*
 
 A class from which a particular class is derived, perhaps with one or
 more classes in between. See also *[subclass](#subclass)*,
 *[subtype](#subtype)*.
 
-*[super]{#super}*
+*[super]*
 
 A Java(TM) programming language keyword used to access members of a
 class inherited by the class in which it appears.
 
-*[supertype]{#supertype}*
+*[supertype]*
 
 The supertypes of a type are all the interfaces and classes that are
 extended or implemented by that type. See also *[subtype](#subtype)*,
 *[superclass](#superclass)*.
 
-*[switch]{#switch}*
+*[switch]*
 
 A Java(TM) programming language keyword used to evaluate a variable that
 can later be matched with a value specified by the \"case\" keyword in
 order to execute a group of statements.
 
-*[Swing Set]{#Swing Set}*
+*[Swing Set]*
 
 The code name for a collection of graphical user interface (GUI)
 components that runs uniformly on any native platform which supports the
@@ -1256,40 +1255,40 @@ Java programming language, these components may provide functionality
 above and beyond that provided by native-platform equivalents. (Contrast
 with [AWT](#awt).)
 
-*[synchronized]{#synchronized}*
+*[synchronized]*
 
 A keyword in the Java programming language that, when applied to a
 method or code block, guarantees that at most one thread at a time
 executes that code.
 
-[***T***]{#T}[![Top](../images/glossaryArrow.gif){border="0"
+[***T***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[TCP/IP]{#tcp}*
+*[TCP/IP]*
 
 Transmission Control Protocol based on IP. This is an Internet protocol
 that provides for the reliable delivery of streams of data from one host
 to another. See also *[IP](#IP)*.
 
-*[Technology Compatibility Kit (TCK)]{#TCK}*
+*[Technology Compatibility Kit (TCK)]*
 
 A test suite, a set of tools, and other requirements used to certify an
 implementation of a particular Sun technology conformant both to the
 applicable specifications and to Sun or Sun-designated reference
 implementations.
 
-*[Thin Client]{#Thin Client}*
+*[Thin Client]*
 
 A system that runs a very light operating system with no local system
 administration and executes applications delivered over the network.
 
-*[this]{#this}*
+*[this]*
 
 A Java(TM) programming language keyword that can be used to represent an
 instance of the class in which it appears. \"this\" can be used to
 access class variables and methods.
 
-*[thread]{#thread}*
+*[thread]*
 
 The basic unit of program execution. A process can have several threads
 running concurrently, each performing a different job, such as waiting
@@ -1297,18 +1296,18 @@ for events or performing a time-consuming job that the program doesn\'t
 need to complete before going on. When a thread has finished its job,
 the thread is suspended or destroyed. See also *[process](#process)*.
 
-*[throw]{#throw}*
+*[throw]*
 
 A Java(TM) programming language keyword that allows the user to throw an
 exception or any class that implements the \"throwable\" interface.
 
-*[throws]{#throws}*
+*[throws]*
 
 A Java(TM) programming language keyword used in method declarations that
 specify which exceptions are not handled within the method but rather
 passed to the next higher level of the program.
 
-*[transient]{#transient}*
+*[transient]*
 
 A keyword in the Java programming language that indicates that a field
 is not part of the serialized form of an object. When an object is
@@ -1316,7 +1315,7 @@ serialized, the values of its transient fields are not included in the
 serial representation, while the values of its non-transient fields are
 included.
 
-*[try]{#try}*
+*[try]*
 
 A Java(TM) programming language keyword that defines a block of
 statements that may throw a Java language exception. If an exception is
@@ -1324,20 +1323,20 @@ thrown, an optional \"catch\" block can handle specific exceptions
 thrown within the \"try\" block. Also, an optional \"finally\" block
 will be executed regardless of whether an exception is thrown or not.
 
-*[type]{#type}[]{#types}*
+*[type][]*
 
 A class or interface.
 
-[***U***]{#U}[![Top](../images/glossaryArrow.gif){border="0"
+[***U***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[Unicode]{#Unicode}*
+*[Unicode]*
 
 A 16-bit character set defined by ISO 10646. See also *[ASCII](#ascii)*.
 All source code in the Java(TM) programming environment is written in
 Unicode.
 
-*[URL]{#URL}*
+*[URL]*
 
 Uniform Resource Locator. A standard for writing a text reference to an
 arbitrary piece of data in the WWW. A URL looks like
@@ -1346,17 +1345,17 @@ to fetch the object (like HTTP or FTP), host specifies the Internet name
 of the host on which to find it, and localinfo is a string (often a file
 name) passed to the protocol handler on the remote host.
 
-[***V***]{#V}[![Top](../images/glossaryArrow.gif){border="0"
+[***V***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[variable]{#variable}*
+*[variable]*
 
 An item of data named by an identifier. Each variable has a type, such
 as `int` or `Object`, and a scope. See also *[class
 variable](#class%20variable)*, *[instance
 variable](#instance%20variable)*, *[local variable](#local%20variable)*.
 
-*[virtual machine]{#virtual machine}*
+*[virtual machine]*
 
 An abstract specification for a computing device that can be implemented
 in different ways, in software or hardware. You compile to the
@@ -1365,55 +1364,55 @@ instruction set of a microprocessor. The Java(TM) virtual machine**\***
 consists of a bytecode instruction set, a set of registers, a stack, a
 garbage-collected heap, and an area for storing methods.
 
-*[void]{#void}*
+*[void]*
 
 A Java(TM) programming language keyword used in method declarations to
 specify that the method does not return any value. \"void\" can also be
 used as a nonfunctional statement.
 
-*[volatile]{#volatile}*
+*[volatile]*
 
 A Java(TM) programming language keyword used in variable declarations
 that specifies that the variable is modified asynchronously by
 concurrently running threads.
 
-[***W***]{#W}[![Top](../images/glossaryArrow.gif){border="0"
+[***W***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-*[wait]{#wait}*
+*[wait]*
 
 A UNIX® command which will wait for all background processes to
 complete, and report their termination status.
 
-*[while]{#while}*
+*[while]*
 
 A Java(TM) programming language keyword used to declare a loop that
 iterates a block of statements. The loop\`s exit condition is specified
 as part of the while statement.
 
-*[world readable files]{#world readable files}*
+*[world readable files]*
 
 Files on a file system that can be viewed (read) by any user. For
 example: files residing on web servers can only be viewed by Internet
 users if their permissions have been set to world readable.
 
-*[wrapper]{#wrapper}*
+*[wrapper]*
 
 An object that encapsulates and delegates to another object to alter its
 interface or behavior in some way.
 
-*[WWW]{#WWW}*
+*[WWW]*
 
 World Wide Web. The web of systems and the data in them that is the
 Internet. See also *[Internet](#Internet)*.
 
-[***X***]{#X}[![Top](../images/glossaryArrow.gif){border="0"
+[***X***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-[***Y***]{#Y}[![Top](../images/glossaryArrow.gif){border="0"
+[***Y***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
-[***Z***]{#Z}[![Top](../images/glossaryArrow.gif){border="0"
+[***Z***][![Top](../images/glossaryArrow.gif){border="0"
 hspace="30"}](#top)
 
 **\*As used on this web site, the terms \"Java virtual machine\" or
