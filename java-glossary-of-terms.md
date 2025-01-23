@@ -1,5 +1,3 @@
-A browser with JavaScript enabled is required for this page to operate
-properly.
 
 # Glossary of Terms
 
@@ -9,7 +7,7 @@ following definitions.
 ------------------------------------------------------------------------
 
 
-*[100% Pure Java(TM)]*
+*100% Pure Java(TM)*
 
 A Sun Microsystems initiative to guide developers in writing,
 certifying, and marketing applications written entirely in the Java(TM)
