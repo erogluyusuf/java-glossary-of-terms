@@ -507,8 +507,8 @@ operator followed by the class name.
 *instance method*
 
 Any method that is invoked with respect to an instance of a class. Also
-called simply a *method(#method)*. See also *class
-method(#class%20method)*.
+called simply a *method*. See also *class
+method*.
 
 *instance variable*
 
@@ -889,7 +889,7 @@ Java(TM) Virtual Machine**\***. The part of the Java Runtime Environment
 responsible for interpreting bytecodes.
 
 ***K***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *keyword*
 
@@ -898,7 +898,7 @@ words are reserved by the language itself and therefore are not
 available as names for variables or methods.
 
 ***L***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *lexical*
 
@@ -909,8 +909,8 @@ tokens that the compiler can understand.
 
 A module that builds an executable, complete program from component
 machine code modules. The Java(TM) linker creates a runnable program
-from compiled classes. See also *compiler(#compiler)*,
-*interpreter(#interpreter)*, *runtime system(#runtime%20system)*.
+from compiled classes. See also *compiler*,
+*interpreter*, *runtime system*.
 
 *literal*
 
@@ -930,32 +930,32 @@ A Java(TM) programming language keyword used to define a variable of
 type long.
 
 ***M***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *member*
 
-A *field(#field)* or *method(#method)* of a class. Unless specified
+A *field* or *method* of a class. Unless specified
 otherwise, a member is not static.
 
 *method*
 
 A function defined in a class. See also *instance
-method(#instance%20method)*, *class method(#class%20method)*. Unless
+method*, *class method*. Unless
 specified otherwise, a method is not static.
 
 *Mosaic*
 
 A program that provides a simple GUI that enables easy access to the
 data stored on the Internet. These data may be simple files or hypertext
-documents. Mosaic was written by a team at *NCSA(#NCSA)*.
+documents. Mosaic was written by a team at *NCSA*.
 
 *multithreaded*
 
 Describes a program that is designed to have parts of its code execute
-concurrently. See also *thread(#thread)*.
+concurrently. See also *thread*.
 
 ***N***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *native*
 
@@ -966,7 +966,7 @@ Java source file, but rather in another language.
 *NCSA*
 
 National Center for Supercomputer Applications. See also
-*Mosaic(#Mosaic)*.
+*Mosaic*.
 
 *new*
 
@@ -979,14 +979,14 @@ A Java(TM) programming language keyword used to specify an undefined
 value for reference variables.
 
 ***O***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *object*
 
 The principal building blocks of object-oriented programs. Each object
 is a programming unit consisting of data (*instance
-variables(#instance%20variable)*) and functionality (*instance
-methods(#instance%20method)*). See also *class(#class)*.
+variables*) and functionality (*instance
+methods*). See also *class*.
 
 *object-oriented design*
 
@@ -997,7 +997,7 @@ real objects using classes and objects.
 
 The numbering system using 8 as its base, using the numerals 0-7 as its
 digits. In programs written in the Java(TM) programming language, octal
-numbers must be preceded with 0. See also *hexadecimal(#hexadecimal)*.
+numbers must be preceded with 0. See also *hexadecimal*.
 
 *Optional Packages*
 
@@ -1019,11 +1019,11 @@ Providing a different implementation of a method in a subclass of the
 class that originally defined the method.
 
 ***P***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *package*
 
-A group of *types(#types)*. Packages are declared with the `package`
+A group of *types*. Packages are declared with the `package`
 keyword.
 
 *peer*
@@ -1095,10 +1095,10 @@ declaration. It signifies that the method or variable can be accessed by
 elements residing in other classes.
 
 ***Q***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 ***R***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *raster*
 
@@ -1120,13 +1120,13 @@ Request for Enhancement.
 
 *RMI*
 
-See *Java Remote Method Invocation(#JRMI)*.
+See *Java Remote Method Invocation*.
 
 *root*
 
 In a hierarchy of items, the one item from which all other items are
 descended. The root item has nothing above it in the hierarchy. See also
-*hierarchy(#hierarchy)*, *class(#class)*, *package(#package)*.
+*hierarchy*, *class*, *package*.
 
 *RPC*
 
@@ -1143,7 +1143,7 @@ an implementation of the Java virtual machine, which may be a Java
 interpreter.
 
 ***S***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *Sandbox*
 
@@ -1183,7 +1183,7 @@ type short.
 
 In the Java(TM) language specification, describes a floating point
 number with 32 bits of data. See also *double
-precision(#double%20precision)*.
+precision*.
 
 *SGML*
 
@@ -1202,11 +1202,11 @@ variables.
 
 *static field*
 
-Another name for *class variable(#class%20variable)*.
+Another name for *class variable*.
 
 *static method*
 
-Another name for *class method(#class%20method)*.
+Another name for *class method*.
 
 *subarray*
 
@@ -1215,19 +1215,19 @@ An array that is inside another array.
 *subclass*
 
 A class that is derived from a particular class, perhaps with one or
-more classes in between. See also *superclass(#superclass)*,
-*supertype(#supertype)*.
+more classes in between. See also *superclass*,
+*supertype*.
 
 *subtype*
 
 If type X *extends* or implements type Y, then X is a subtype of Y. See
-also *supertype(#supertype)*.
+also *supertype*.
 
 *superclass*
 
 A class from which a particular class is derived, perhaps with one or
-more classes in between. See also *subclass(#subclass)*,
-*subtype(#subtype)*.
+more classes in between. See also *subclass*,
+*subtype*.
 
 *super*
 
@@ -1237,8 +1237,8 @@ class inherited by the class in which it appears.
 *supertype*
 
 The supertypes of a type are all the interfaces and classes that are
-extended or implemented by that type. See also *subtype(#subtype)*,
-*superclass(#superclass)*.
+extended or implemented by that type. See also *subtype*,
+*superclass*.
 
 *switch*
 
@@ -1253,7 +1253,7 @@ components that runs uniformly on any native platform which supports the
 Java(TM) virtual machine**\***. Because they are written entirely in the
 Java programming language, these components may provide functionality
 above and beyond that provided by native-platform equivalents. (Contrast
-with AWT(#awt).)
+with AWT.)
 
 *synchronized*
 
@@ -1262,13 +1262,13 @@ method or code block, guarantees that at most one thread at a time
 executes that code.
 
 ***T***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *TCP/IP*
 
 Transmission Control Protocol based on IP. This is an Internet protocol
 that provides for the reliable delivery of streams of data from one host
-to another. See also *IP(#IP)*.
+to another. See also *IP*.
 
 *Technology Compatibility Kit (TCK)*
 
@@ -1294,7 +1294,7 @@ The basic unit of program execution. A process can have several threads
 running concurrently, each performing a different job, such as waiting
 for events or performing a time-consuming job that the program doesn\'t
 need to complete before going on. When a thread has finished its job,
-the thread is suspended or destroyed. See also *process(#process)*.
+the thread is suspended or destroyed. See also *process*.
 
 *throw*
 
@@ -1328,11 +1328,11 @@ will be executed regardless of whether an exception is thrown or not.
 A class or interface.
 
 ***U***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *Unicode*
 
-A 16-bit character set defined by ISO 10646. See also *ASCII(#ascii)*.
+A 16-bit character set defined by ISO 10646. See also *ASCII*.
 All source code in the Java(TM) programming environment is written in
 Unicode.
 
@@ -1346,14 +1346,14 @@ of the host on which to find it, and localinfo is a string (often a file
 name) passed to the protocol handler on the remote host.
 
 ***V***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *variable*
 
 An item of data named by an identifier. Each variable has a type, such
 as `int` or `Object`, and a scope. See also *class
-variable(#class%20variable)*, *instance
-variable(#instance%20variable)*, *local variable(#local%20variable)*.
+variable*, *instance
+variable*, *local variable*.
 
 *virtual machine*
 
@@ -1377,7 +1377,7 @@ that specifies that the variable is modified asynchronously by
 concurrently running threads.
 
 ***W***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 *wait*
 
@@ -1404,16 +1404,16 @@ interface or behavior in some way.
 *WWW*
 
 World Wide Web. The web of systems and the data in them that is the
-Internet. See also *Internet(#Internet)*.
+Internet. See also *Internet*.
 
 ***X***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 ***Y***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 ***Z***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}(#top)
+hspace="30"}
 
 **\*As used on this web site, the terms \"Java virtual machine\" or
 \"JVM\" mean a virtual machine for the Java platform.**
