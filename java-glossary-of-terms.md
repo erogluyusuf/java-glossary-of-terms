@@ -3,101 +3,96 @@ properly.
 
 # Glossary of Terms
 
-For simplicity, \"the Java^TM^ platform\" is called Java in the
-following definitions. []{#top}
+For simplicity, \"the JavaTM platform\" is called Java in the
+following definitions. 
 
 ------------------------------------------------------------------------
 
-[A](\#A) [B](#B) [C](#C) [D](#D) [E](#E) [F](#F) [G](#G) [H](#H) [I](#I)
-[J](#J) [K](#K) [L](#L) [M](#M) [N](#N) [O](#O) [P](#P) [Q](#Q) [R](#R)
-[S](#S) [T](#T) [U](#U) [V](#V) [W](#W) [X](#X) [Y](#Y) [Z](\#Z)\
 
-------------------------------------------------------------------------
-
-*[100% Pure Java(TM)]{#purejava}*
+*[100% Pure Java(TM)]*
 
 A Sun Microsystems initiative to guide developers in writing,
 certifying, and marketing applications written entirely in the Java(TM)
 programming language.
 
-[***A***]{#A}
+[***A***]
 
-*[Abstract Window Toolkit (AWT)]{#awt}*
+*[Abstract Window Toolkit (AWT)]*
 
 A collection of graphical user interface (GUI) components that were
 implemented using native-platform versions of the components. These
 components provide that subset of functionality which is common to all
 native platforms. Largely supplanted by the Project Swing component set.
-See also *[Swing Set](#Swing%20Set)*.
+See also *[Swing Set]*.
 
-*[abstract]{#abstract}*
+*[abstract]*
 
 A Java(TM) programming language keyword used in a class definition to
 specify that a class is not to be instantiated, but rather inherited by
 other classes. An abstract class can have abstract methods that are not
 implemented in the abstract class, but in subclasses.
 
-*[abstract class]{#abstract class}*
+*[abstract class]*
 
 A class that contains one or more *abstract methods*, and therefore can
 never be instantiated. Abstract classes are defined so that other
 classes can extend them and make them concrete by implementing the
 abstract methods.
 
-*[abstract method]{#abstract method}*
+*[abstract method]*
 
 A method that has no implementation.
 
-*[actual parameter list]{#actual parameter list}*
+*[actual parameter list]*
 
 The arguments specified in a particular method call. See also *[formal
-parameter list](#formal%20parameter%20list)*.
+parameter list]*.
 
-*[alpha value]{#alpha value}*
+*[alpha value]*
 
 A value that indicates the opacity of a pixel.
 
-*[API]{#API}*
+*[API]*
 
 Application Programming Interface. The specification of how a programmer
 writing an application accesses the behavior and state of classes and
 objects.
 
-*[appliances]{#appliances}*
+*[appliances]*
 
 Networked devices such as printers, Java(TM) technology-enabled
 terminals, and clients, that are managed using applications built using
 the Java Management API (JMAPI).
 
-*[applet]{#applet}*
+*[applet]*
 
 A program written in the Java(TM) programming language to run within a
 web browser compatible with the Java platform, such as HotJava(TM) or
 Netscape Navigator(TM).
 
-*[argument]{#argument}*
+*[argument]*
 
 A data item specified in a method call. An argument can be a literal
 value, a variable, or an expression.
 
-*[array]{#array}*
+*[array]*
 
 A collection of data items, all of the same type, in which each item\'s
 position is uniquely designated by an integer.
 
-*[ASCII]{#ascii}*
+*[ASCII]*
 
 American Standard Code for Information Interchange. A standard
 assignment of 7-bit numeric codes to characters. See also
-*[Unicode](#Unicode)*.
+*[Unicode]*.
 
-*[atomic]{#atomic}*
+*[atomic]*
 
 Refers to an operation that is never interrupted or left in an
 incomplete state under any circumstance.
 
 [***B***]{#B}[![Top](../images/glossaryArrow.gif){border="0"
-hspace="30"}](#top)
+hspace="30"}]
 
 *[Bean]{#Bean}*
 
