@@ -888,8 +888,7 @@ machine**\***.
 Java(TM) Virtual Machine**\***. The part of the Java Runtime Environment
 responsible for interpreting bytecodes.
 
-***K***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***K***
 
 *keyword*
 
@@ -897,8 +896,7 @@ The Java(TM) programming language sets aside words as keywords - these
 words are reserved by the language itself and therefore are not
 available as names for variables or methods.
 
-***L***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***L***
 
 *lexical*
 
@@ -929,8 +927,7 @@ variable and can\'t be used outside the method.
 A Java(TM) programming language keyword used to define a variable of
 type long.
 
-***M***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***M***
 
 *member*
 
@@ -954,8 +951,7 @@ documents. Mosaic was written by a team at *NCSA*.
 Describes a program that is designed to have parts of its code execute
 concurrently. See also *thread*.
 
-***N***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***N***
 
 *native*
 
@@ -978,8 +974,7 @@ class.
 A Java(TM) programming language keyword used to specify an undefined
 value for reference variables.
 
-***O***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***O***
 
 *object*
 
@@ -1018,8 +1013,7 @@ variables or operators.
 Providing a different implementation of a method in a subclass of the
 class that originally defined the method.
 
-***P***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***P***
 
 *package*
 
@@ -1094,11 +1088,9 @@ A Java(TM) programming language keyword used in a method or variable
 declaration. It signifies that the method or variable can be accessed by
 elements residing in other classes.
 
-***Q***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***Q***
 
-***R***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***R***
 
 *raster*
 
@@ -1142,8 +1134,7 @@ dynamically link native methods, manage memory, handle exceptions, and
 an implementation of the Java virtual machine, which may be a Java
 interpreter.
 
-***S***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***S***
 
 *Sandbox*
 
@@ -1261,8 +1252,7 @@ A keyword in the Java programming language that, when applied to a
 method or code block, guarantees that at most one thread at a time
 executes that code.
 
-***T***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***T***
 
 *TCP/IP*
 
@@ -1327,8 +1317,7 @@ will be executed regardless of whether an exception is thrown or not.
 
 A class or interface.
 
-***U***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***U***
 
 *Unicode*
 
@@ -1345,8 +1334,7 @@ to fetch the object (like HTTP or FTP), host specifies the Internet name
 of the host on which to find it, and localinfo is a string (often a file
 name) passed to the protocol handler on the remote host.
 
-***V***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***V***
 
 *variable*
 
@@ -1376,8 +1364,7 @@ A Java(TM) programming language keyword used in variable declarations
 that specifies that the variable is modified asynchronously by
 concurrently running threads.
 
-***W***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***W***
 
 *wait*
 
