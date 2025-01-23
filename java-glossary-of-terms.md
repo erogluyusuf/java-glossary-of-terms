@@ -1406,14 +1406,11 @@ interface or behavior in some way.
 World Wide Web. The web of systems and the data in them that is the
 Internet. See also *Internet*.
 
-***X***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***X***!
 
-***Y***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***Y***!
 
-***Z***!Top(../images/glossaryArrow.gif){border="0"
-hspace="30"}
+***Z***!
 
 **\*As used on this web site, the terms \"Java virtual machine\" or
 \"JVM\" mean a virtual machine for the Java platform.**
